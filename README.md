@@ -1,6 +1,6 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Rizdhan Hernanda R
 
-A passionate Software Developer from [Your Country]
+A passionate Software Engineer from Surabaya, Indonesia
 
 ![Coding](https://user-images.githubusercontent.com/your-image.png) <!-- Optional coding image or icon -->
 
