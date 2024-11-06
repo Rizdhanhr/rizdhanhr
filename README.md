@@ -6,8 +6,8 @@ A passionate Software Engineer from Surabaya, Indonesia
 - 🌱 I’m currently learning new Technologies, Courses.
 - 👨‍💻 Ask me about PHP (Native, Laravel, CI), JavaScript (ExpressJs, ReactJS)
 - 📫 How to reach me: rizdhanhr@gmail.com
-- ⚡ Fun fact: [Fun Fact]
-
+- ⚡ Fun fact: "people always arguing which is the best JavaScript or PHP, why not use them both? :)) "
+ 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
