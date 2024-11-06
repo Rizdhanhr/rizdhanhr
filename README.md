@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rizdhan Hernanda R
 
-A passionate Software Engineer from Surabaya, Indonesia
+A passionate Fullstack Developer/Software Engineer from Surabaya, Indonesia
 
 - 🔭 I’m currently working on InTouch Innovate Indonesia (A Subsidiary of GIIFT)
 - 🌱 I’m currently learning Mobile Development (Flutter).
