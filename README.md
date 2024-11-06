@@ -3,7 +3,7 @@
 A passionate Software Engineer from Surabaya, Indonesia
 
 - 🔭 I’m currently working on InTouch Innovate Indonesia
-- 🌱 I’m currently learning new Mobile Development (Flutter).
+- 🌱 I’m currently learning Mobile Development (Flutter).
 - 👨‍💻 Ask me about PHP (Native, Laravel, CI), JavaScript (ExpressJs, ReactJS), Dart (Flutter)
 - 📫 How to reach me: rizdhanhr@gmail.com
 - ⚡ Fun fact: "people always arguing which is the best JavaScript or PHP, why not use them both? :)) "
