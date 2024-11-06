@@ -3,9 +3,9 @@
 A passionate Software Engineer from Surabaya, Indonesia
 
 - 🔭 I’m currently working on InTouch Innovate Indonesia
-- 🌱 I’m currently learning [Technologies, Courses, etc.]
-- 👨‍💻 Ask me about [Skills, Languages, etc.]
-- 📫 How to reach me: [Your Email]
+- 🌱 I’m currently learning new Technologies, Courses.
+- 👨‍💻 Ask me about PHP (Native, Laravel, CI), JavaScript (ExpressJs, ReactJS)
+- 📫 How to reach me: rizdhanhr@gmail.com
 - ⚡ Fun fact: [Fun Fact]
 
 ## Connect with me:
