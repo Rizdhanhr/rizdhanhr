@@ -27,8 +27,6 @@ A passionate Software Engineer from Surabaya, Indonesia
 <!-- Add other icons as needed -->
 
 ## Most Used Languages
-![PHP](https://img.shields.io/badge/PHP-52.44%25-777BB4)
-![JavaScript](https://img.shields.io/badge/JavaScript-27.90%25-F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-12.62%25-1572B6)
-![HTML](https://img.shields.io/badge/HTML-6.21%25-E34F26)
+![PHP](https://img.shields.io/badge/PHP-50%25-777BB4)
+![JavaScript](https://img.shields.io/badge/JavaScript-50%25-F7DF1E)
 
