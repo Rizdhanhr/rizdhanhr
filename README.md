@@ -2,9 +2,7 @@
 
 A passionate Software Engineer from Surabaya, Indonesia
 
-![Coding](https://user-images.githubusercontent.com/your-image.png) <!-- Optional coding image or icon -->
-
-- 🔭 I’m currently working on [Your Project]
+- 🔭 I’m currently working on InTouch Innovate Indonesia
 - 🌱 I’m currently learning [Technologies, Courses, etc.]
 - 👨‍💻 Ask me about [Skills, Languages, etc.]
 - 📫 How to reach me: [Your Email]
