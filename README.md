@@ -2,7 +2,7 @@
 
 A passionate Fullstack Developer/Software Engineer from Surabaya, Indonesia
 
-- 🔭 I’m currently working on InTouch Innovate Indonesia (A Subsidiary of GIIFT)
+- 🔭 I’m currently working on InTouch Innovate Indonesia (A Subsidiary Company of GIIFT)
 - 🌱 I’m currently learning Mobile Development (Flutter).
 - 👨‍💻 Ask me about PHP (Native, Laravel, CI), JavaScript (ExpressJs, ReactJS), Dart (Flutter)
 - 📫 How to reach me: rizdhanhr@gmail.com
