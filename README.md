@@ -2,11 +2,10 @@
 
 A passionate Fullstack Developer/Software Engineer from Surabaya, Indonesia
 
-- 🔭 I’m currently working on InTouch Innovate Indonesia (A Subsidiary Company of GIIFT)
 - 🌱 I’m currently learning Mobile Development (Flutter).
 - 👨‍💻 Ask me about PHP (Native, Laravel, CI), JavaScript (ExpressJS, ReactJS), Dart (Flutter)
 - 📫 How to reach me: rizdhanhr@gmail.com
-- ⚡ Fun fact: "People always arguing which is better : JavaScript or PHP, why not use them both? :)) "
+- ⚡ Fun fact: "People always arguing which is better : JavaScript or PHP, why not use them both? "
  
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizdhan)
