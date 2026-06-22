@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rizdhan Hernanda R
 
-A passionate Fullstack Developer/Software Engineer from Surabaya, Indonesia
+A Fullstack Developer from Surabaya, Indonesia
 
 - 🌱 I’m currently learning Mobile Development (Flutter).
 - 👨‍💻 Ask me about PHP (Native, Laravel, CI), JavaScript (ExpressJS, ReactJS), Dart (Flutter)
