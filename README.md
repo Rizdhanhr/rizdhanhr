@@ -3,7 +3,7 @@
 A Fullstack Developer from Surabaya, Indonesia
 
 - 🌱 I’m currently learning Mobile Development (Flutter).
-- 👨‍💻 Ask me about PHP (Native, Laravel, CI 4), JavaScript (ExpressJS, ReactJS, NestJS), Java (Spring Boot)
+- 👨‍💻 Ask me about PHP (Native, Laravel, CI 4), JavaScript/TypeScript (ExpressJS, ReactJS, NestJS), Java (Spring Boot)
 - 📫 How to reach me: rizdhanhr@gmail.com
  
 ## Connect with me:
@@ -13,11 +13,12 @@ A Fullstack Developer from Surabaya, Indonesia
 ## Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-EA2D2A?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Java Spring Boot](https://img.shields.io/badge/-Java%20Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
