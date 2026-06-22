@@ -3,9 +3,8 @@
 A Fullstack Developer from Surabaya, Indonesia
 
 - 🌱 I’m currently learning Mobile Development (Flutter).
-- 👨‍💻 Ask me about PHP (Native, Laravel, CI), JavaScript (ExpressJS, ReactJS), Dart (Flutter)
+- 👨‍💻 Ask me about PHP (Native, Laravel, CI 4), JavaScript (ExpressJS, ReactJS, NestJS), Java (Spring Boot)
 - 📫 How to reach me: rizdhanhr@gmail.com
-- ⚡ Fun fact: "People always arguing which is better : JavaScript or PHP, why not use them both? "
  
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizdhan)
@@ -19,7 +18,9 @@ A Fullstack Developer from Surabaya, Indonesia
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/-Java%20Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
