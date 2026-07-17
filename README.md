@@ -1,9 +1,9 @@
 # Hi 👋, I'm Rizdhan Hernanda R
 
-A Fullstack Developer from Surabaya, Indonesia
+Surabaya, Indonesia
 
-- 🌱 I’m currently learning Mobile Development (Flutter).
-- 👨‍💻 Ask me about PHP (Native, Laravel, CI 4), JavaScript/TypeScript (ExpressJS, ReactJS, NestJS), Java (Spring Boot)
+- 🌱 I’m currently learning Mobile Development (React Native).
+- 👨‍💻 Ask me about PHP (Native, Laravel, CI 4), JavaScript/TypeScript (ExpressJS, ReactJS, NestJS)
 - 📫 How to reach me: rizdhanhr@gmail.com
  
 ## Connect with me:
